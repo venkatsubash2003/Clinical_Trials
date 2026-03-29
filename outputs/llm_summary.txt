@@ -1,0 +1,15 @@
+**Executive Summary:**
+This clinical trial dashboard summarizes patient safety data from 100 records across 25 patients. 3 patients are identified as high-risk, with 4 patients exhibiting anomalies. Average vital signs are within normal ranges, but critical alerts are triggered for 9 patients. The top recommended actions are immediate clinical reviews for high-risk patients.
+
+**Top 3 Critical Safety Insights:**
+* 3 patients have critical SpO2 alerts, indicating potential respiratory distress.
+* 1 patient has a respiratory distress alert, requiring immediate clinical attention.
+* 5 patients have worsening trend alerts, indicating potential adverse events.
+
+**Top 3 Recommended Actions:**
+* Immediate clinical review for high-risk patients (P004, P001, P009).
+* Review abnormal patient pattern for patient P010.
+* Continue routine monitoring for patients with low anomaly scores (P011, P021).
+
+**Treatment Arm Comparison:**
+Baloxavir marboxil has the lowest average temperature (99.29°F) and highest average SpO2 (95.38%) among treatment arms. Oseltamivir has the highest anomaly count (3.0) and high-risk count (2). Standard of care has the lowest anomaly count (1.0) and high-risk count (1).
